@@ -1,0 +1,2 @@
+# IDS
+Iterative Deepening Search
