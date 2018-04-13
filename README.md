@@ -1,4 +1,4 @@
-# IDS
+# Iterative Deepening Search
 An implementation of pathfinding using IDS a.k.a. Iterative Deepening Search. <br>
 multiple goal maze solving <br>
 <br>
