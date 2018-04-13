@@ -1,5 +1,8 @@
 # IDS
 An implementation of pathfinding using IDS a.k.a. Iterative Deepening Search. <br>
+multiple goal maze solving <br>
+<br>
+usage : <br>
 execute this code with IDS.py and input.txt ex) python IDS.py input.txt output.txt <br>
 it will generate the best path <br>
 1 means wall (can't pass) <br>
